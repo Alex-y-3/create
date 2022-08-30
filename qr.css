@@ -6,6 +6,10 @@ html, body{
     width:100%;
   
 }
+@font-face {
+    font-family:Outfit ;
+    src: url(https://fonts.google.com/specimen/Outfit);
+}
 body{
     background-color:hsl(212,45%,89%);
 }
